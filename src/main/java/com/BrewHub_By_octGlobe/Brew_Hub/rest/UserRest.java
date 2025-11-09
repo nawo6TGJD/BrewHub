@@ -1,4 +1,4 @@
-package com.inn.cafe.rest;
+package com.BrewHub_By_octGlobe.Brew_Hub.rest;
 
 import com.inn.cafe.wrapper.UserWrapper;
 import org.springframework.http.ResponseEntity;

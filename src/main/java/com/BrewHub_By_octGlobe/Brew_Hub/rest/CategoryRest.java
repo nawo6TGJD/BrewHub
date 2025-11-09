@@ -1,5 +1,4 @@
-package com.inn.cafe.rest;
-
+package com.BrewHub_By_octGlobe.Brew_Hub.rest;
 import com.inn.cafe.POJO.Category;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;

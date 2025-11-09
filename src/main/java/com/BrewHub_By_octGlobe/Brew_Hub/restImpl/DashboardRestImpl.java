@@ -1,4 +1,4 @@
-package com.inn.cafe.restImpl;
+package com.BrewHub_By_octGlobe.Brew_Hub.restImpl;
 
 import com.inn.cafe.rest.DashboardRest;
 import com.inn.cafe.service.DashboardService;
